@@ -1,0 +1,16 @@
+{
+  "name": "achibement-sbt",
+  "version": "1.0.0",
+  "description": "EIP-5633(extends of EIP-1155, Draft) based third-party allowed soulbound token contract",
+  "author": "Yundo Han",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.0",
+    "@truffle/hdwallet-provider": "1.7.0",
+    "ethers": "^5.7.2",
+    "isarray": "0.0.1",
+    "object-keys": "0.4.0",
+    "process-nextick-args": "2.0.1",
+    "truffle-plugin-debugger": "0.0.2"
+  }
+}
